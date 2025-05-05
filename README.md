@@ -11,7 +11,7 @@ This project implements a **4-layer artificial neural network (ANN)** completely
 - 🖋️ Created a custom dataset of **handwritten Hindi characters**
 - 🧮 Implemented a **fully connected ANN** with:
   - Input Layer: 225 (15×15 grayscale image)
-  - Hidden Layers: 2 × 10 neurons
+  - Hidden Layers: 2 × 15 neurons
   - Output Layer: 10 classes (one-hot)
 - 💻 Entire model written in **C++**, without any ML frameworks
 - 🔁 Implemented forward propagation, sigmoid/leaky ReLU, softmax, MSE and cross-entropy loss
